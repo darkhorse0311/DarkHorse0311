@@ -1,7 +1,7 @@
 <!-- Add Your Name and Intro Here -->
 # Hello! 👋 
 
-I'm a **Senior .NET Expert** with 7 years of rich knowledge and storng experience in C# .NET.
+I'm a **Senior .NET Expert** with 7 years of storng experience in web & desktop application development.
 
 <!-- Professional Info -->
 <!-- I'm a **Life Long Learner** and like to learn something new everyday. I'm currently working as a **Full Stack Developer**. -->
@@ -81,14 +81,9 @@ Windows Presentation Foundation <br />
 Windows Forms <br />
 Universal Windows Platform <br />
 
-- Mobile App Development <br />
-Xamarin
-
-C# | XAML | Entity Framework | SignalR
-
 
 ## My other skills
-- HTML5, CSS 3, JavaScript / TypeScript
+- HTML5, CSS 3, TypeScript
 - gRPC, GraphQL
 - Microsoft SQL Server, PostgreSQL, MySQL, MongoDB
 - Aamzon Web Services, Microsoft Azure
@@ -99,8 +94,8 @@ C# | XAML | Entity Framework | SignalR
 <!-- More about me 👉 https://DarkHorse0311.github.io -->
 
 
-<!-- #
+#
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkHorse0311&show_icons=true&theme=gruvbox)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Peter Jin&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHorse0311&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=Long Hai&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHorse0311&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
