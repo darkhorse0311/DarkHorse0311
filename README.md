@@ -94,8 +94,8 @@ Universal Windows Platform <br />
 <!-- More about me 👉 https://DarkHorse0311.github.io -->
 
 
-#
+<!-- #
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkHorse0311&show_icons=true&theme=gruvbox)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Long Hai&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHorse0311&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHorse0311&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
 
