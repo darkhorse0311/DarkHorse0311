@@ -1,7 +1,7 @@
 <!-- Add Your Name and Intro Here -->
 # Hello! 👋 
 
-I'm a **Senior .NET Expert** with 7 years of storng experience in web & desktop application development.
+I'm a **Senior .NET Expert** with 7 years of strong experience in web & desktop application development.
 
 <!-- Professional Info -->
 <!-- I'm a **Life Long Learner** and like to learn something new everyday. I'm currently working as a **Full Stack Developer**. -->
