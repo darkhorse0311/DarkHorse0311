@@ -81,6 +81,10 @@ Windows Presentation Foundation <br />
 Windows Forms <br />
 Universal Windows Platform <br />
 
+- Mobile App Development <br />
+Xamarin <br />
+.NET MAUI <br />
+
 
 ## My other skills
 - HTML5, CSS 3, TypeScript
