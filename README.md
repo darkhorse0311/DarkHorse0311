@@ -1,7 +1,7 @@
 <!-- Add Your Name and Intro Here -->
 # Hello! 👋 
 
-I'm a **Senior .NET Expert** with 7 years of strong experience in web & desktop application development.
+I'm a **Senior Full Stack .NET Engineer** with 7 years of strong experience in web & desktop application development.
 
 <!-- Professional Info -->
 <!-- I'm a **Life Long Learner** and like to learn something new everyday. I'm currently working as a **Full Stack Developer**. -->
@@ -27,8 +27,58 @@ I'm a **Senior .NET Expert** with 7 years of strong experience in web & desktop 
 
 ---
 
+
+<h3 align="center">    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" />
+
+    
 ### 💻 Tech Stack
 
+<table><tr><td valign="top" width="33%">
+
+### Frontend  
+<div align="center">  
+    <img alt="HTML" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    <img alt="CSS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    <img alt="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img alt="TypeScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+    <img alt="React" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img alt="AngularJS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+    <img alt="NextJS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+</div>
+
+</td><td valign="top" width="33%">
+
+
+### Backend  
+<div align="center">  
+    <img alt="CSharp" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img alt="DotNet" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
+    <img alt="DotNetCore" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+    <img alt="C++" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+    <img alt="NodeJS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img alt="Express" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+    <img alt="Laravel" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+</div>
+
+</td><td valign="top" width="33%">
+
+
+### Others
+<div align="center">
+    <img alt="Microsoft Azure" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" />
+    <img alt="MSSQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+    <img alt="Git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img alt="GitHub" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img alt="Xamarin" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" />
+</div>
+
+</td></tr></table>  
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<!--
 <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="DotNet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
 <img align="left" alt="DotNetCore" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
@@ -46,8 +96,9 @@ I'm a **Senior .NET Expert** with 7 years of strong experience in web & desktop 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="MSSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <br/><br/>
+-->
 
-
+    
 <!-- #
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="150" height="100"/>
 <br/> -->
@@ -69,6 +120,7 @@ while ($me.isAlive())
 -->
 
 
+<!--
 ## My main skills related .NET
 
 - Web Development <br />
@@ -91,7 +143,7 @@ Xamarin <br />
 - gRPC, GraphQL
 - Microsoft SQL Server, PostgreSQL, MySQL, MongoDB
 - Aamzon Web Services, Microsoft Azure
-
+-->
 
 <!-- More about me -->
 <!-- <br /><br /> -->
