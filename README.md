@@ -1,7 +1,7 @@
 <!-- Add Your Name and Intro Here -->
 # Hello! 👋 
 
-I'm a **Senior Full Stack .NET Engineer** with 7 years of strong experience in web & desktop application development.
+I'm a **Senior Full Stack Developer** with 10 years of rich experience in web & desktop application development.
 
 <!-- Professional Info -->
 <!-- I'm a **Life Long Learner** and like to learn something new everyday. I'm currently working as a **Full Stack Developer**. -->
@@ -33,10 +33,8 @@ I'm a **Senior Full Stack .NET Engineer** with 7 years of strong experience in w
     
 ### 💻 Tech Stack
 
-<table><tr><td valign="top" width="33%">
-
-### Frontend  
-<div align="center">  
+### - Frontend  
+<div>  
     <img alt="HTML" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img alt="CSS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
     <img alt="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -46,26 +44,21 @@ I'm a **Senior Full Stack .NET Engineer** with 7 years of strong experience in w
     <img alt="NextJS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </div>
 
-</td><td valign="top" width="33%">
-
-
-### Backend  
-<div align="center">  
+### - Backend  
+<div>  
     <img alt="CSharp" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img alt="DotNet" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
     <img alt="DotNetCore" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-    <img alt="C++" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
     <img alt="NodeJS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img alt="Express" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+    <img alt="PHP" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
     <img alt="Laravel" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 </div>
 
-</td><td valign="top" width="33%">
-
-
-### Others
-<div align="center">
+### - Others
+<div>
     <img alt="Microsoft Azure" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" />
+    <img alt="AWS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
     <img alt="MSSQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
     <img alt="Git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img alt="GitHub" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
