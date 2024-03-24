@@ -3,16 +3,7 @@
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </a>
     
-   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+a+Full+Stack+Engineer;I+have+10+years+of+experience;Be+Welcome!)
-
-<!--
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
--->
+   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+a+Software+Engineer;I+have+9+years+of+experience;Be+Welcome!)
 
 ##
 
@@ -20,105 +11,49 @@
     <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" />
 </h3>
 
-
-### **Languages and Tools :**  
-
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="auto" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="auto"  /></td>
-    <td><img alt="CSharp" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="auto" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="auto" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="auto"  /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="auto"  /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="auto"  /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="auto"  /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="auto"  /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="55" height="auto"  /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="55" height="auto" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="auto"  /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="55" height="auto"  /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="55" height="auto"  /></td>
-    <td><img alt="mong-db" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" /></td>
-    <td><img alt="DotNetCore" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /></td>  
-    <td><img alt="DotNet" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="auto"  /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="auto"  /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="55" height="auto"  /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55" height="auto"  /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="55" height="auto" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></td>
-   </tr>
-   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /></td>
-    <td><img alt="Microsoft Azure" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" /></td>
-    <td><img alt="MSSQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="auto" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="auto" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="auto"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="55" height="auto" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="auto"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="auto" /></td>
-   </tr>
-  </table>
-<br />
+### 🛠 Tech Stack
+- 💻 
+	![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
+    ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+    ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+    ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
+	![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+	![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+ 	![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+ 	![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+	![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  	![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+- 🌐
+	![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  	![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  	![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+    ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+    ![Material UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=materialui)
+  	![Semantic UI](https://img.shields.io/badge/-SemanticUI-333333?style=flat&logo=semanticui)
+- 🛢
+	![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+ 	![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL)
+ 	![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+ 	![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+    ![Amazon DynamoDB](https://img.shields.io/badge/-Amazon%20DynamoDB-333333?style=flat&logo=amazon-dynamodb)
+    ![Amazon RDS](https://img.shields.io/badge/-Amazon%20RDS-333333?style=flat&logo=amazon-rds)
+- ⚙️
+    ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-333333?style=flat&logo=amazon-aws)
+    ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+ 	![Nginx](https://img.shields.io/badge/-Ngnix-333333?style=flat&logo=nginx)
+    ![Kubernetes](https://img.shields.io/badge/-Kubernates-333333?style=flat&logo=kubernetes)
+    ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
+    ![Microservice](https://img.shields.io/badge/-Microservice-333333?style=flat&logo=microservice)
+- 🔧
+    ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+ 	![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+ 	![InteliJ](https://img.shields.io/badge/-InteliJ-333333?style=flat&logo=intellij-idea)
+ 	![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+ 	![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
 
 <a href="#">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </a>
-
-<!--
-<a href="#">
-   <img title="Snake animation" src="./img/snake.svg">
-</a>
--->
-
-<!--
-<img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="DotNet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
-<img align="left" alt="DotNetCore" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="left" alt="Xamarin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="AngularJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-<img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="MSSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-<br/><br/>
--->
-
-    
-<!-- #
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="150" height="100"/>
-<br/> -->
-
-
-<!--
-````js
-// my life cycle
-
-while ($me.isAlive())
-{
-    $me.eat();
-    $me.sleep();
-    $me.code();
-    $me.repeat();
-    
-}
-````
--->
 
 <!-- #
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkHorse0311&show_icons=true&theme=gruvbox)
